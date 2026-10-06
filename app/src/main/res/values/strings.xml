@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiniShopManager</string>
+
+    <string-array name="products">
+        <item>Téléphone</item>
+        <item>Câble USB</item>
+        <item>Chargeur</item>
+        <item>Apple Watch</item>
+        <item>Casque Bluetooth</item>
+        <item>PC portable</item>
+        <item>Carte graphique</item>
+    </string-array>
+</resources>
